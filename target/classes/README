@@ -1,0 +1,4 @@
+flyway varsayilan olarak resources altinda db/migration dosyasi olusmusmu bakar.
+orada sql dosyalari durur.SQL Dosyalarinin adlandirilmasi
+https://flywaydb.org/documentation/migrations#naming-1
+gore yapilmaktadir.

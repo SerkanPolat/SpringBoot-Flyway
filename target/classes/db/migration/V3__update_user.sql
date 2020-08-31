@@ -1,0 +1,1 @@
+update kullanici set kulad = 'username' where kulad = 'testuser';
